@@ -453,7 +453,7 @@ The prediction notebook uses the same feature order and encoding as the training
 
 <!-- Add your prediction screenshot here -->
 
-<!-- ![Prediction Result](./prediction_screenshot.png) -->
+<!-- ![Prediction Result](prediction_screenshot.png) -->
 
 ---
 
