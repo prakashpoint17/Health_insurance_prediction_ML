@@ -1,3 +1,5 @@
+![projext overview](./health_insurance_flow.jpeg)
+
 # 🏥 Health Insurance Premium Prediction
 
 A Machine Learning project that predicts **health insurance charges/premium** based on a customer's demographic and health-related information.
@@ -441,19 +443,13 @@ Predicted Insurance Charges: 13326.82
 The prediction notebook uses the same feature order and encoding as the training data, which is essential when loading and using the saved model.
 ---
 
-## 🖼️ Project Screenshots
-
-### Dataset / Project View
-
-<!-- Add screenshot here -->
-
-![Project Screenshot](./0786fe86-e622-45a6-a278-19a24f1d47f6.png)
+## Project Screenshots
 
 ### Model Prediction
 
 <!-- Add your prediction screenshot here -->
 
-<!-- ![Prediction Result](prediction_screenshot.png) -->
+![Prediction Result](./prediction_screenshot.png)
 
 ---
 
